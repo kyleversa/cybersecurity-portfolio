@@ -4,7 +4,7 @@ A collection of Python-based cybersecurity projects demonstrating threat detecti
 
 ## Projects
 
-### 1. 🎯 Cyber Threat Sentiment Analysis
+### 1.  Cyber Threat Sentiment Analysis
 Advanced NLP analysis of cybersecurity threat intelligence reports to detect sentiment patterns and cognitive biases in threat reporting.
 
 **Key Features:**
@@ -15,13 +15,13 @@ Advanced NLP analysis of cybersecurity threat intelligence reports to detect sen
 
 **Technologies:** Python, NLTK, Pandas, Matplotlib, NLP
 
-**Status:** ✅ Fully runnable (includes sample data)
+**Status:**  Fully runnable (includes sample data)
 
 [View Project →](./Cyber_Threat_Sentiment_Analysis/)
 
 ---
 
-### 2. 🔍 URL Threat Detection Analysis
+### 2.  URL Threat Detection Analysis
 Comprehensive security analysis tool that processes honeypot logs to identify and classify malicious URL-based attacks.
 
 **Key Features:**
@@ -32,13 +32,13 @@ Comprehensive security analysis tool that processes honeypot logs to identify an
 
 **Technologies:** Python, Pandas, Regex, Security Analysis
 
-**Status:** 📊 Results embedded (large dataset not included)
+**Status:**  Results embedded (large dataset not included)
 
 [View Project →](./URL_Threat_Detection_Analysis/)
 
 ---
 
-### 3. 📈 Cybersecurity Attack Visualization
+### 3.  Cybersecurity Attack Visualization
 Interactive 3D bubble chart visualization showing attack patterns across time and source IPs with advanced matplotlib rendering.
 
 **Key Features:**
@@ -49,7 +49,7 @@ Interactive 3D bubble chart visualization showing attack patterns across time an
 
 **Technologies:** Python, Matplotlib, Pandas, Data Visualization
 
-**Status:** 📊 Results embedded (large dataset not included)
+**Status:**  Results embedded (large dataset not included)
 
 [View Project →](./Cybersecurity_Attack_Visualization/)
 
