@@ -1,0 +1,62 @@
+Cyber Threat Intelligence Reports - Sentiment and Bias Analysis Summary
+======================================================================
+
+SENTIMENT ANALYSIS SUMMARY:
+  Average Polarity: 0.057
+  Average Subjectivity: 0.374
+  Positive Reports: 9
+  Negative Reports: 10
+  Neutral Reports: 1
+
+GEOGRAPHICAL BIAS SUMMARY:
+  RUSSIA:
+    Total Mentions: 116
+    Reports with Mentions: 8
+    Avg Sentiment: -0.018
+  CHINA:
+    Total Mentions: 703
+    Reports with Mentions: 16
+    Avg Sentiment: -0.038
+  NORTH_KOREA:
+    Total Mentions: 34
+    Reports with Mentions: 4
+    Avg Sentiment: 0.104
+  IRAN:
+    Total Mentions: 176
+    Reports with Mentions: 8
+    Avg Sentiment: -0.184
+  USA:
+    Total Mentions: 285
+    Reports with Mentions: 18
+    Avg Sentiment: 0.190
+  EUROPE:
+    Total Mentions: 28
+    Reports with Mentions: 10
+    Avg Sentiment: 0.086
+  MIDDLE_EAST:
+    Total Mentions: 77
+    Reports with Mentions: 10
+    Avg Sentiment: -0.000
+  ASIA:
+    Total Mentions: 36
+    Reports with Mentions: 12
+    Avg Sentiment: 0.099
+  WEST:
+    Total Mentions: 39
+    Reports with Mentions: 11
+    Avg Sentiment: 0.183
+  EAST:
+    Total Mentions: 16
+    Reports with Mentions: 8
+    Avg Sentiment: -0.199
+
+TECHNICAL FOCUS SUMMARY:
+  malware: 241 mentions
+  network: 472 mentions
+  web: 310 mentions
+  email: 137 mentions
+  crypto: 28 mentions
+  cloud: 133 mentions
+  iot: 35 mentions
+  mobile: 45 mentions
+  ai: 124 mentions

@@ -1,0 +1,40 @@
+{
+    "total_urls": 720281,
+    "suspicious_urls": 664257,
+    "clean_urls": 56024,
+    "attack_rate": 92.22192449891085,
+    "multi_attack_urls": 473728,
+    "severity_distribution": {
+        "Clean": 56024,
+        "Low": 176088,
+        "Medium": 18908,
+        "Critical": 84737,
+        "High": 384524
+    },
+    "attack_distribution": {
+        "PHP Attack": 487771,
+        "File Inclusion": 9811,
+        "Directory Traversal": 5716,
+        "Command Injection": 35694,
+        "Windows Attack": 220484,
+        "SQL Injection": 465930,
+        "NoSQL Injection": 6295,
+        "LDAP Injection": 972,
+        "Cross-Site Scripting (XSS)": 6,
+        "XML Injection": 15
+    },
+    "average_confidence": 0.554,
+    "high_confidence_attacks": 84079,
+    "top_attack_combinations": {
+        "PHP Attack, SQL Injection": 228536,
+        "PHP Attack": 165710,
+        "SQL Injection, Windows Attack": 141494,
+        "PHP Attack, SQL Injection, Windows Attack": 45334,
+        "Command Injection, PHP Attack, SQL Injection": 15288,
+        "SQL Injection": 12520,
+        "Windows Attack": 10357,
+        "Command Injection, SQL Injection, Windows Attack": 7235,
+        "Command Injection, PHP Attack": 6845,
+        "NoSQL Injection, PHP Attack, SQL Injection, Windows Attack": 5592
+    }
+}

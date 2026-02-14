@@ -1,0 +1,41 @@
+CYBER THREAT INTELLIGENCE BIAS ANALYSIS
+==================================================
+
+
+The analysis reveals significant biases in cyber threat intelligence reporting that 
+directly impact the sentiment and objectivity of the reports:
+
+1. GEOGRAPHICAL BIAS:
+   - China receives disproportionate attention (703 mentions vs 285 for USA)
+   - The heatmap shows China is discussed with mixed sentiment across reports
+   - This geographical focus correlates with the overall negative sentiment
+   - Western nations (USA, Europe) generally receive more neutral coverage
+
+2. ATTRIBUTION BIAS:
+   - Attribution confidence varies widely (0-50% certainty)
+   - Lower attribution confidence correlates with more neutral sentiment
+   - Reports with higher certainty tend to use more negative language
+   - This suggests confirmation bias in threat attribution
+
+3. TECHNICAL BIAS:
+   - Heavy focus on network attacks (472 mentions) and email threats (310)
+   - Emerging technologies (AI, IoT) receive minimal coverage
+   - This technical bias may lead to blind spots in threat assessment
+   - Traditional attack vectors dominate the narrative
+
+4. SENTIMENT DISCREPANCY:
+   - TextBlob (linguistic analysis) shows neutral/positive tone
+   - VADER (contextual analysis) reveals highly negative sentiment
+   - This suggests reports use professional language to convey negative assessments
+   - The discrepancy indicates sophisticated bias that maintains apparent objectivity
+
+IMPACT: These biases create an echo chamber effect where certain threat actors 
+(particularly China) are overrepresented, potentially skewing risk assessments 
+and resource allocation in cybersecurity efforts.
+
+
+RECOMMENDATIONS:
+1. Diversify geographical coverage in threat reporting
+2. Include confidence intervals for all attributions
+3. Expand technical coverage to emerging technologies
+4. Implement sentiment-aware editing to reduce bias

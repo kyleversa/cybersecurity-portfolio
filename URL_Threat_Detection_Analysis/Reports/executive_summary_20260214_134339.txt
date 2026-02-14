@@ -1,0 +1,30 @@
+EXECUTIVE SUMMARY - HONEYPOT SECURITY ANALYSIS
+============================================================
+
+Report Date: February 14, 2026
+Analysis Period: 2016-09-15 07:12:34.475000 to 2019-10-31 13:14:50.017000
+Analyst: Kyle Purves
+
+KEY FINDINGS:
+----------------------------------------
+• Total Requests Analyzed: 720,281
+• Malicious Requests Identified: 664,257
+• Attack Rate: 92.22%
+• Critical Severity Attacks: 84,737
+• Multi-Vector Attacks: 473,728
+
+TOP THREATS:
+----------------------------------------
+• PHP Attack: 487,771 instances
+• File Inclusion: 9,811 instances
+• Directory Traversal: 5,716 instances
+• Command Injection: 35,694 instances
+• Windows Attack: 220,484 instances
+
+RECOMMENDATIONS:
+----------------------------------------
+1. Immediate deployment of Web Application Firewall (WAF)
+2. Implementation of rate limiting and IP blocking
+3. Security audit of all web applications
+4. Enhanced monitoring and alerting systems
+5. Regular security training for development teams
